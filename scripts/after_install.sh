@@ -1,3 +1,3 @@
 #!/bin/bash
 
-chmod 664 /var/www/html/index.html
+chmod 664 /var/www/html/*.php
